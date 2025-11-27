@@ -86,6 +86,16 @@ src/
  ├── App.js
  └── index.js
 
+
+ ## Project ScreenShort Images
+
+ ![HomeBannerPage](assets/HomeBanner.png)
+ ![SignupPage](assets/Signup.png)
+ ![ProductListPage](assets/ProductList.png)
+ ![ContactPage](assets/ContactPage.png)
+ ![OrderPage](assets/OrderPage.png)
+ ![DeliveryDetailsPage](assets/DeliveryDetails.png)
+
  ## Installation & Setup
  ## Clone this repository
  git clone https://github.com/vikashvicky7575/food-website.git
